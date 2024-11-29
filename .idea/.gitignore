@@ -1,8 +1,48 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
 # Editor-based HTTP Client requests
 /httpRequests/
+
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# IntelliJ IDEA specific files
+/.idea/
+/*.iml
+/out/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.~*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+/node_modules/
+/vendor/
+
+# Build directories
+/build/
+/dist/
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environment variables and secrets
+.env
+.env.local
+
+# Other IDEs
+.vscode/
